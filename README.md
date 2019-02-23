@@ -34,6 +34,8 @@ $ cd server
 $ npm run build
 $ npm run start
 ```
+Open a browser:
 
+http://localhost:4200/
 
 

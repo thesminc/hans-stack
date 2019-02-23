@@ -14,6 +14,10 @@ HANS Stack consists of a simple
 ```bash
 $ git clone 
 $ cd hans-stack
+$ cd server
+$ npm install
+$ cd ..
+$ cd client
 $ npm install
 ```
 

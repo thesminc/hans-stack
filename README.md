@@ -14,6 +14,10 @@ HANS Stack consists of a simple
 ```bash
 $ git clone 
 $ cd hans-stack
+$ cd server
+$ npm install
+$ cd ..
+$ cd client
 $ npm install
 ```
 
@@ -30,6 +34,8 @@ $ cd server
 $ npm run build
 $ npm run start
 ```
+Open a browser:
 
+http://localhost:4200/
 
 
